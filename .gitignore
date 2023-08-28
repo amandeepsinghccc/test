@@ -1,0 +1,11 @@
+.idea
+*.iml
+local.properties
+build
+.gradle
+# Eclipse project files
+.project
+.settings/	
+.classpath
+
+java_pid4740.hprof
